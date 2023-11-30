@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wow-rng-page/static/css/main.fb6e5015.css",
+    "main.js": "/wow-rng-page/static/js/main.d9bcf735.js",
+    "static/js/787.44d587e5.chunk.js": "/wow-rng-page/static/js/787.44d587e5.chunk.js",
+    "index.html": "/wow-rng-page/index.html",
+    "main.fb6e5015.css.map": "/wow-rng-page/static/css/main.fb6e5015.css.map",
+    "main.d9bcf735.js.map": "/wow-rng-page/static/js/main.d9bcf735.js.map",
+    "787.44d587e5.chunk.js.map": "/wow-rng-page/static/js/787.44d587e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb6e5015.css",
+    "static/js/main.d9bcf735.js"
+  ]
+}
